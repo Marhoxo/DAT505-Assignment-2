@@ -1,0 +1,8 @@
+[
+  {
+    "time": "2026-11-14 19:00:38",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:12345/printers/evil1"
+  }
+]

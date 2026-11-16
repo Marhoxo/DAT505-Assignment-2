@@ -1,0 +1,92 @@
+[
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "REPEATED",
+    "source": "172.18.0.1",
+    "detail": "6 packets in 10 seconds"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "REPEATED",
+    "source": "172.18.0.1",
+    "detail": "7 packets in 10 seconds"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "REPEATED",
+    "source": "172.18.0.1",
+    "detail": "8 packets in 10 seconds"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "REPEATED",
+    "source": "172.18.0.1",
+    "detail": "9 packets in 10 seconds"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-16 01:52:18",
+    "type": "REPEATED",
+    "source": "172.18.0.1",
+    "detail": "10 packets in 10 seconds"
+  }
+]

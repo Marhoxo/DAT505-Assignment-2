@@ -1,0 +1,44 @@
+[
+  {
+    "time": "2026-11-14 18:48:27",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://172.18.0.1:12345/printers/evil1"
+  },
+  {
+    "time": "2026-11-14 18:49:41",
+    "type": "UNAUTHORIZED",
+    "source": "172.18.0.1",
+    "detail": "advertised printer: http://8.8.8.8:9100/printers/Printer"
+  },
+  {
+    "time": "2026-11-14 18:49:41",
+    "type": "IPP CONNECTION",
+    "source": "172.18.0.2",
+    "detail": "connection attempt to PUBLIC address 8.8.8.8:9100"
+  },
+  {
+    "time": "2026-11-14 18:49:42",
+    "type": "IPP CONNECTION",
+    "source": "172.18.0.2",
+    "detail": "connection attempt to PUBLIC address 8.8.8.8:9100"
+  },
+  {
+    "time": "2026-11-14 18:49:43",
+    "type": "IPP CONNECTION",
+    "source": "172.18.0.2",
+    "detail": "connection attempt to PUBLIC address 8.8.8.8:9100"
+  },
+  {
+    "time": "2026-11-14 18:49:45",
+    "type": "IPP CONNECTION",
+    "source": "172.18.0.2",
+    "detail": "connection attempt to PUBLIC address 8.8.8.8:9100"
+  },
+  {
+    "time": "2026-11-14 18:51:35",
+    "type": "MALFORMED",
+    "source": "172.18.0.1",
+    "detail": "could not parse packet: b'garbage'"
+  }
+]
